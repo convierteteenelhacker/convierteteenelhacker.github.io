@@ -2,7 +2,6 @@
 
 layout: page
 title: Home
-permalink: /
 cover: "images/hacker_img.jpg"
 ---
 

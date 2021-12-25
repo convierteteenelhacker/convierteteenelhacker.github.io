@@ -31,7 +31,6 @@ github_username:  convierteteenelhacker
 
 
 # Build settings
-theme: jekyll-theme-hydure
 plugins:
   - jekyll-feed
 

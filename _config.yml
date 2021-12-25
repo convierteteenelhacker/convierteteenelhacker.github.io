@@ -28,9 +28,10 @@ baseurl: "/convierteteenelhacker.github.io" # the subpath of your site, e.g. /bl
 url: "https://convierteteenelhacker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: siguealhacker
 github_username:  convierteteenelhacker
-
+remote_theme: zivong/jekyll-theme-hydure
 
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 

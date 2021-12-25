@@ -1,0 +1,12 @@
+- title: Email
+  url: mailto:convierteteenelhacker@gmail.com
+  icon: fas fa-envelope
+- title: Twitter
+  url: https://twitter.com/siguealhacker
+  icon: fab fa-twitter
+- title: GitHub
+  url: https://github.com/convierteteenelhacker
+  icon: fab fa-github
+- title: Instagram
+  url: https://www.instagram.com/convierteteenelhacker/
+  icon: fab fa-instagram

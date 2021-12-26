@@ -275,8 +275,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  github-pages (~> 219)
-  jekyll (~> 3.9.0)
+  github-pages
   jekyll-feed (~> 0.12)
   jekyll-remote-theme
   tzinfo (~> 1.2)

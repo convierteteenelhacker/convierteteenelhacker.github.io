@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-cover: "images/hacker_img.jpg"
+cover: "https://github.com/convierteteenelhacker/convierteteenelhacker.github.io/blob/main/images/hacker_img.jpg?raw=true"
 ---
 
     Sigue al hacker
